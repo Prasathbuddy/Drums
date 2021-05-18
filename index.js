@@ -14,12 +14,7 @@ for (var i = 0; i < lengthOfBtn; i++) {
        buttonAnimation(event.key);
     });
 
-    // var soundFiles = [
-    //     {
-    //         key:"w",
-    //         audio:"sounds/tom-1.mp3"
-    //     },
-    // ]
+   
 
 //sound function
 function makeSound(key){
